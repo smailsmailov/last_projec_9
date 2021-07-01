@@ -166,6 +166,7 @@ img:hover{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    list-style: none;
 }
 /* ПОРТФОЛИО */
 .portfolio{
@@ -219,6 +220,7 @@ img:hover{
     display: flex;
     padding-left: 300px;
     padding-bottom: 45px;
+    list-style: none;
 }
 .contacts_link{
     padding-right: 60px;
