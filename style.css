@@ -154,6 +154,7 @@ img:hover{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    list-style-type: none;
 }
 .program__text{
     color: rgba(130, 130, 130, 1);
@@ -221,7 +222,7 @@ img:hover{
     display: flex;
     padding-left: 300px;
     padding-bottom: 45px;
-    list-style: none;
+    list-style-type: none;
 }
 .contacts_link{
     padding-right: 60px;
